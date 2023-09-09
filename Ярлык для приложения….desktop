@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[ru_RU]=
+Comment=
+Exec=/home/student/IntelliJ/idea-IU-231.9225.16/bin/idea.sh
+GenericName[ru_RU]=
+GenericName=
+Icon=/home/student/IntelliJ/idea-IU-231.9225.16/bin/idea.svg
+MimeType=
+Name[ru_RU]=Idea
+Name=Idea
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
